@@ -5,6 +5,7 @@ NYC taxi dataset is a comprehensive dataset containing millions of rows of taxi 
 **Releases**
 * Yellow trip data (2024-2025): https://github.com/tantikristanti/NYC-Taxi/releases/tag/v1.0.0-yellow-alpha
 * Green trip data (2024-2025): https://github.com/tantikristanti/NYC-Taxi/releases/tag/v1.0.0-green-alpha
+* Taxi zones: https://github.com/tantikristanti/NYC-Taxi-Dataset/releases/download/v1.0.0-zones-alpha
 
 **Dataset Contents**
 
